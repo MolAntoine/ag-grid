@@ -85,10 +85,9 @@
       "community-modules/styles",
       "community-modules/locale",
       "packages/ag-grid-community",
-      "packages/ag-grid-enterprise",
-      "packages/ag-grid-react",
+
       "packages/ag-grid-angular",
-      "packages/ag-grid-vue3",
+
       "documentation/ag-grid-docs",
       "documentation/update-algolia-indices",
       "plugins/ag-grid-generate-code-reference-files",

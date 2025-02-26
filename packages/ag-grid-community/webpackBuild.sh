@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 array=("production" "staging")
 
 if [[ ${array[@]} =~ "$NX_TASK_TARGET_CONFIGURATION" ]]
